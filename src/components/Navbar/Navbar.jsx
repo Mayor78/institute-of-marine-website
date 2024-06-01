@@ -40,7 +40,7 @@ const Navbar = () => {
            </div>
            <button className='py-3 px-6 font-bold
            text-sm border border-solid rounded-lg 
-           border-gray md:hidden'>Sign Up 
+           border-gray md:block'>Sign Up 
            </button>
            {toggle && (
            <motion.div
